@@ -1,9 +1,6 @@
 ### Hi there 👋
-
-[![Jack Shaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=js1294)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
-
-![Jack Shaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=js1294&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=synthwave)
+![Jack Shaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=js1294&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=js1294&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **js1294/js1294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
