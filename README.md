@@ -1,30 +1,37 @@
+<h1 align="center">Hi There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<p align="center">
+  I am currently a second-year undergraduate studying at Exeter Univerisity. I am doing BSC Computer Science with Industrial Placement. I am interested in weather modelling and   artificial intelligence. I am currently learning C#, SQL and Haskell at the moment.
+</p>
+<h2 align="left"> Stats: </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-20-blue" />
-</p>
   
-<hr>
-
+  ![Jack Shaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=js1294&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=js1294&layout=compact&langs_count=7&theme=radical&exclude_repo=Kenney-GameJam-2021,Kenney-Game-Jam-2021-Game)
+  
+</p>
+<h2 align="left"> Languages: </h2>
 <p align="center">
-
-### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Jack Shaw
-![Jack Shaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=js1294&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=js1294&langs_count=7&theme=radical&exclude_repo=Kenney-GameJam-2021,Kenney-Game-Jam-2021-Game)]  (https://github.com/anuraghazra/github-readme-stats)
-  
+  <a href="https://www.java.com/en/" target="_blank"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
+  </a> 
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
+  </a> 
+   <a href="https://www.w3schools.com/php/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="50" height="50"/> 
+  </a> 
 </p>
+<h2 align="left"> Contact me: </h2>
 
-<!--
-**js1294/js1294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jackshaw810@gmail.com)
+  
