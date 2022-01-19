@@ -1,4 +1,4 @@
-<h1 align="center">Hi There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<h1 align="center">Hi There </h1>
 <p align="center">
   I am currently a second-year undergraduate studying at Exeter Univerisity. I am doing BSC Computer Science with Industrial Placement. I am interested in weather modelling and   artificial intelligence. I am currently learning C#, SQL and Haskell at the moment.
 </p>
