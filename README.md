@@ -7,7 +7,7 @@
 <p align="center">
   
   ![Jack Shaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=js1294&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=js1294&layout=compact&langs_count=8&theme=radical&exclude_repo=Kenney-GameJam-2021,Kenney-Game-Jam-2021-Game)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=js1294&layout=compact&langs_count=9&theme=radical&exclude_repo=Kenney-GameJam-2021,Kenney-Game-Jam-2021-Game)
   
 </p>
 <h2 align="left"> Languages: </h2>
