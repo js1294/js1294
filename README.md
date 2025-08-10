@@ -1,4 +1,9 @@
 <h1 align="center">Hi There </h1>
+I am a backend engineer working on Infor MES.
+
+This mostly contains work from university.
+
+My current project is a Rimworld mod.
 <h2 align="left"> Stats: </h2>
 
 <p align="center">
@@ -9,6 +14,12 @@
 </p>
 <h2 align="left"> Languages: </h2>
 <p align="center">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank"> 
+    <img src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg" alt="CSharp" width="50" height="50"/> 
+  </a> 
+  <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50" height="50"/> 
+  </a> 
   <a href="https://www.java.com/en/" target="_blank"> 
     <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="50" height="50"/> 
   </a> 
